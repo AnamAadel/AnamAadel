@@ -23,6 +23,21 @@
 <h3 align="left">Tech Overview:</h3>
 <p align="left">I create sleek websites using HTML, CSS, and JavaScript. With React, Next.js, and a touch of Tailwind CSS, Bootstrap, and Material UI, I bring designs to life. I craft graphics with Photoshop, and Figma, coding in VS Code.  Firebase, MongoDB, and Express add functionality for seamless web experiences.</p>
 
+
+<h2 align="left">Featured Projects:</h2>
+
+<h3>Project One -  WanderWise</h3>
+<p>Discover adventures: your journey, your way, effortlessly explored.</p>
+<p>Live Link: <a href="https://assignment-12-f56n5erwm-aadelbanat8991-gmailcom.vercel.app/">https://assignment-12-f56n5erwm-aadelbanat8991-gmailcom.vercel.app/</a></p>
+
+<h3>Project Two -  TradeHaven </h3>
+<p>Shop seamlessly online for curated goods and personalized experiences.</p>
+<p>Live Link: <a href="https://assignment-10-qdr7fqint-aadelbanat8991-gmailcom.vercel.app/">https://assignment-10-qdr7fqint-aadelbanat8991-gmailcom.vercel.app/</a></p>
+
+<h3>Project Three -  -HomeSwapHub</h3>
+<p>Swap homes, discover new places, redefine your living adventure.</p>
+<p>Live Link: <a href="https://assignment-11-7m7i6h4id-aadelbanat8991-gmailcom.vercel.app/">https://assignment-11-7m7i6h4id-aadelbanat8991-gmailcom.vercel.app/</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anamul-amin-2683472a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamul-amin-2683472a4" height="30" width="40" /></a>
